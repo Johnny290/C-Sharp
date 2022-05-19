@@ -7,7 +7,7 @@ namespace Maze
     {
         private World MyWorld;
         private Player CurrentPlayer;
-        private static string filename = @".\maze.dat";
+        private static string filename = @".\Map.dat";
         public void Start()
         {
             
