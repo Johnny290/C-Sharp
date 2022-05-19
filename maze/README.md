@@ -1,2 +1,2 @@
 # Simple maze game, controled with arrows.
-# maze map loads from Maze.dat
+# Maze map loads from Maze.dat
